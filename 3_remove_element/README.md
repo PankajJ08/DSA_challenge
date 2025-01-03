@@ -25,6 +25,6 @@ val = 3
 
 ### Output:
 ```plaintext
-	k = 2
-	nums = [2, 2, _, _]
+k = 2
+nums = [2, 2, _, _]
 ```
